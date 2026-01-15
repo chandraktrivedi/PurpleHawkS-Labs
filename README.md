@@ -1,5 +1,5 @@
 ![LOGO](PurpleHawkS.png)
-# PurpleHawkS is a ALL-IN-ONE Virtual Machine with open source tools used for Purple Teaming
+# PurpleHawkS-VM is a ALL-IN-ONE Virtual Machine with open source tools used for Purple Teaming
 ## This is design to provide knowledge and learning on various tools that can be used as part of purple teaming execrises
 ### Cybersecurity areas focused on:
 * Mitre ATT&CK-D3FEND Framework
